@@ -1,2 +1,3 @@
 ini merupakan kalimat pertama
 ini merupakan kalimat kedua
+ini merupakan kalimat yang sudah diubah di branch baru
